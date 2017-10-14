@@ -1,6 +1,13 @@
-// CC2006, Lab 4
-// Una clase para representar a los Coroneles.
+/**
+ * @version 13/10/2017
+ * Esta clase contienen las propiedades 
+ * @author jose
+ */
 
+/**
+ * @version 13/10/2017
+ * @author jose
+ */
 public class Coronel extends Teniente {
     public double getSalario() {
         return super.getSalario() + 5000.0;      // Q45,000.00 / anio
